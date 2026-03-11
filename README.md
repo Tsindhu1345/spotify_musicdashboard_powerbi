@@ -28,3 +28,4 @@
 🔍 Key Insights from the Dashboard -- 📌 Romantic and Melody genres dominate the dataset 📌 Songs released after 2019 show higher Spotify popularity 📌 Sid Sriram and Shreya Ghoshal songs have strong repeat listening rates 📌 A small number of songs contribute to high popularity spikes 📌 Listener engagement increases with emotional and romantic genres
 
 🚀 Features of the Dashboard -- ✔ Interactive artist image slicer ✔ Dark themed Spotify-style UI design ✔ Multiple cross-filtering visuals ✔ KPI cards for quick insights ✔ Genre and year-based trend analysis# spotify_dashboard_powerbi image
+<img width="1320" height="741" alt="image" src="https://github.com/user-attachments/assets/4684a524-bb54-4f5b-a68a-2ddea6b20368" />
