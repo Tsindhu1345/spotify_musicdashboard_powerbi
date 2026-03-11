@@ -22,7 +22,7 @@
 🍩 Song Distribution by Year -- A donut chart showing the percentage of songs released in different years. This visual helps understand song distribution across time.
 
 📊 Spotify Popularity by Year -- A column chart analyzing how Spotify popularity changes year by year. This reveals which years had the most popular songs.
-
+  
 🛠 Tools & Technologies Used -- • Power BI Desktop – Dashboard development • Power Query – Data transformation • DAX (Data Analysis Expressions) – KPI calculations • Excel Dataset – Data source
 
 🔍 Key Insights from the Dashboard -- 📌 Romantic and Melody genres dominate the dataset 📌 Songs released after 2019 show higher Spotify popularity 📌 Sid Sriram and Shreya Ghoshal songs have strong repeat listening rates 📌 A small number of songs contribute to high popularity spikes 📌 Listener engagement increases with emotional and romantic genres
